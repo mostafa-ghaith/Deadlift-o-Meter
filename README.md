@@ -18,7 +18,7 @@ Deadlift-o-Meter is a project that utilizes a Scikit-Learn model, Mediapipe, and
 
 To use the Deadlift-o-Meter project, follow these steps:
 
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone https://github.com/mostafa-ghaith/Deadlift-o-Meter`
 2. Run the `main.py` file to launch the Deadlift-o-Meter application.
 3. Ensure that the required dependencies are installed.
 4. Perform deadlifts in front of the webcam. The application will provide real-time feedback on the number of correct reps, the current stage (up or down), and the probability estimation for each rep.
